@@ -26,7 +26,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     const more = String.fromCharCode(8206)
 const readMore = more.repeat(4001)
 
-
+global.kyoukakey = "Your Apikey" //Register https://dash.api-kyouka.my.id/ Free Register 75 Limit Silaka boleh buat multi account untuk banyak apikey Asalkan gunakan dengan bijak 
 global.owner = [
 ['62895627413377', true],
 ['628889616144', true],
