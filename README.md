@@ -23,4 +23,4 @@ Recode : Zeltoria
 Recode : Vynaa 
 
 Mau beli yg no enc sc asli bukan gw yang recode harga terjangkau hub wa :082389924037
-Kalau mau beli sc no enc yang gw recode Chat Gw t.me/KyoukaHashiba
+Kalau mau beli sc no enc yang gw recode Chat Gw https://t.me/KyoukaHashiba
