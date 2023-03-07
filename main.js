@@ -1,5 +1,5 @@
 //NO ENC 100% & FULL FITUR KAYA YAEMIKO BOT HASIL RECODE GW 40k
-//Serah Mo Recode Bukan SC GW , GW JUGA RECODE
+//Serah Lu Mo Recode Bukan SC GW , GW JUGA RECODE
 //KLO MAU SC HASIL RECODE GW YAH BUY AJA SILAKAN
 //Klo Mau Main-Menulist yang di enc ga di jual..mintak sono ke pemilik asli sc nya
 //Review Yaemiko Hasil Recode gw & Penambahan Fitur cek https://bot.web-fajar.my.id/
