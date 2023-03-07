@@ -18,7 +18,9 @@
 Author : Shirokami Ryzen 
 No : +6281387307198
 Thanks : Narutomo, Elaina, Ekuzika, David
+Recode : Kyouka Hashiba
 Recode : Zeltoria 
 Recode : Vynaa 
 
-Mau beli yg no enc murah hub wa :082389924037
+Mau beli yg no enc sc asli bukan gw yang recode harga terjangkau hub wa :082389924037
+Kalau mau beli sc no enc yang gw recode Chat Gw t.me/KyoukaHashiba
